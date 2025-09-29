@@ -17,10 +17,8 @@ The app uses the free **[Open-Meteo API](https://open-meteo.com/)** for weather 
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-29 at 18 44 24" src="https://github.com/user-attachments/assets/f7d75dab-7b59-4688-8006-53b6896f1e28" />
-" alt="Home Screen" width="250"/>
-  <img src="<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-29 at 18 44 18" src="https://github.com/user-attachments/assets/fe78354d-2236-49ed-81c8-eba96badb3b1" />
-" alt="Add City" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f7d75dab-7b59-4688-8006-53b6896f1e28" alt="Home Screen" width="250"/>
+  <img src="https://github.com/user-attachments/assets/fe78354d-2236-49ed-81c8-eba96badb3b1" alt="Add City" width="250"/>
 </p>
 
 ---
@@ -41,8 +39,9 @@ The app uses the free **[Open-Meteo API](https://open-meteo.com/)** for weather 
 ---
 
 ## 🔑 APIs Used
-Geocoding → https://geocoding-api.open-meteo.com/v1/search?name=CityName
-Weather → https://api.open-meteo.com/v1/forecast?latitude=LAT&longitude=LON&current_weather=true
+- Geocoding → https://geocoding-api.open-meteo.com/v1/search?name=CityName
+- Weather → https://api.open-meteo.com/v1/forecast?latitude=LAT&longitude=LON&current_weather=true
+  
 Both are free and don’t require an API key. 
 
 ---
